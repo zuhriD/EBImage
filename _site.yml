@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Beranda"
+      href: index.html
+    - text: "EBImage"
+      href: program.html
+    - text: "About"
+      href: about.html
+    - text: "Daftar Pustka"
+      href: materi.html

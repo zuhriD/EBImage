@@ -1,0 +1,23 @@
+---
+title: "EBImage"
+author: "Abdurrozzaaq Ashshiddiqi Zuhri/Teknik Informatika/UIN Maulana Malik Ibrahim/Dosen Pembimbing : Prof.Dr.Suhartono,M.kom"
+date: "3/15/2021"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+<p>Disini saya akan mengenalkan apa itu EBImage.</p>
+
+# Apa itu EBImage ?
+<p>
+<img src="3.png"
+     alt="Markdown Monster icon"
+     style="width:200px;height:250px; " />
+     </p>
+<br>
+<p align="justify"><b>EBImage</b> merupakan salah satu library dari R yang ada didalam package Bioconductor. Didalam library ini terdapat banyak tools atau alat yang bisa digunakan untuk melakukan signal processing, statistical modeling, machine learning dan visualisasi dengan data gambar atau pengolahan citra.</p>
+
+<p>Dan... yang akan kita bahas pada tulisan kali ini adalah penggunaan library EBImage untuk melakukan pengolahan citra.</p>
